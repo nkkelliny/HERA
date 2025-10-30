@@ -1,0 +1,17 @@
+{
+  "name": "hera",
+  "version": "1.0.0",
+  "description": "Always-on AI companion with Meshy head, mic/cam sensing, and voice output",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "electron": "^32.0.0",
+    "node-fetch": "^3.3.2",
+    "node-record-lpcm16": "^1.0.1",
+    "openai": "^4.0.0"
+  }
+}

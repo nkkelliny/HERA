@@ -3,6 +3,8 @@ HERA — Human Emulated Responsive Assistant
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg) ![Version](https://img.shields.io/badge/version-1.0.0-orange.svg) ![Platform](https://img.shields.io/badge/platform-Electron-47848F.svg) ![Status](https://img.shields.io/badge/status-Experimental-orange.svg)
 
+<img src="https://github.com/Hubbzy/HERA/blob/main/assets/HERA_screenshot.jpg">
+
 HERA is a desktop assistant with a 3D head that talks, listens, and reacts to you. It runs in **Electron** and uses:
 
 *   **Three.js** to render an animated 3D head (`head.glb`)
